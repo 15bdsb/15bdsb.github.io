@@ -16,3 +16,9 @@ Here you can find my sketches, art projects, and some doodles that I made. It al
 
 
 ### Oil Pastels
+
+
+
+
+
+## Blog section
