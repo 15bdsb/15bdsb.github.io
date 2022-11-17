@@ -23,7 +23,10 @@ Here you can find my sketches, art projects,doodles and spotify playlists that I
 
 
 ### My music favourites
+SPYAIR- Some Like It Hot!!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gqsMJ1wezOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+SPYAIR- My Friend
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_d5VFDsviHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## Blog section
