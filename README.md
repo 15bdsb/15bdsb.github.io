@@ -11,7 +11,7 @@ Here you can find my sketches, art projects,doodles and spotify playlists that I
 
 
 ### Using markers
-![bostr574879](https://user-images.githubusercontent.com/118230257/202325427-66042efe-b649-4b45-88ee-929ea0f44e9b.jpg)
+
 
 
 
