@@ -16,7 +16,6 @@ Here you can find my sketches, art projects,doodles and spotify playlists that I
 
 
 ### Oil Pastels
-![girl]()
 
 
 
