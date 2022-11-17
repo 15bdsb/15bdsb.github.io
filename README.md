@@ -26,5 +26,6 @@ Here you can find my sketches, art projects,doodles and spotify playlists that I
 
 
 
-
+---
 [my twitter account](https://twitter.com/Bd_monoe623)
+
