@@ -5,7 +5,8 @@ Here you can find my sketches, art projects,doodles and spotify playlists that I
 
 
 
-### Doodles
+### Doodles/sketch
+![Sketch self (1)](https://user-images.githubusercontent.com/118230257/202450044-fc97d398-4161-4f79-9673-cb7b834fedf9.jpg)
 
 
 
@@ -18,7 +19,8 @@ Here you can find my sketches, art projects,doodles and spotify playlists that I
 
 
 ### Oil Pastels
-![oil43913800](https://user-images.githubusercontent.com/118230257/202323900-6e0c22cd-673d-4003-a9f6-c782071d2f6a.jpg)
+![Mount Mayon oil pastel](https://user-images.githubusercontent.com/118230257/202450335-d4c1d097-4307-43e8-98ad-8158173e5c3f.jpg)
+
 
 
 
@@ -28,6 +30,7 @@ SPYAIR- Some Like It Hot!!
 SPYAIR- My Friend
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_d5VFDsviHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zNzx2rgv1ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>i9
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCdwKhTtNNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Blog section
 
