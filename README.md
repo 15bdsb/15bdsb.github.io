@@ -1,6 +1,6 @@
 ### Welcome to 15bdsb.github.io
 ---
-## **This is my art and music space**Here you can find my sketches, art projects,doodles and music. I will put the Playlist that I've made. It also acts like a blog where I share my art progress and the music that I love.
+## **This is my art and music space. Here you can find my sketches, art projects,doodles and music. I will put the Playlist that I've made. It also acts like a blog where I share my art progress and the music that I love.
 
 
 
