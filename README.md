@@ -1,7 +1,6 @@
 ### Welcome to 15bdsb.github.io
 ---
-## **This is my art and music space**
-Here you can find my sketches, art projects,doodles and spotify playlists that I've made. It also acts a blog where I share my art progress and the music that I love.
+## **This is my art and music space**Here you can find my sketches, art projects,doodles and music. I will put the Playlist that I've made. It also acts like a blog where I share my art progress and the music that I love.
 
 
 
@@ -24,7 +23,7 @@ Here you can find my sketches, art projects,doodles and spotify playlists that I
 
 
 
-### My music favourites
+## My music favourites
 SPYAIR- Some Like It Hot!!
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gqsMJ1wezOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 SPYAIR- My Friend
@@ -37,6 +36,8 @@ Survive Said The Prophet
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f9sBK5ZI2CQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Run With The Wind- We Must Go
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQ2it_oB0WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### My Music Playlist
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7piTWmGNeXElZOamsknInS?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 ## Blog section
 11/21/2022
 This is the first time I will use a watercolor paper. I hope it will goes well.
