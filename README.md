@@ -41,6 +41,8 @@ Run With The Wind- We Must Go
 ## Blog section
 11/21/2022
 This is the first time I will use a watercolor paper. I hope it will goes well.
+11/22/2022
+I spent most of my time in the  drawing instead of studying.
 
 
 
