@@ -1,8 +1,6 @@
 ### Welcome to 15bdsb.github.io
 ---
-## This is my art and music space. Here you can find my sketches, art projects,doodles and music. I will put the Playlist that I've made. It also acts like a blog where I share my art progress and the music that I love.
-
-
+## This is my art and music space. Here you can find my sketches, art projects,doodles and music. I will put the Playlist that I've made.
 
 ### Doodles/sketch
 ![Sketch self (1)](https://user-images.githubusercontent.com/118230257/202450044-fc97d398-4161-4f79-9673-cb7b834fedf9.jpg)
@@ -38,16 +36,6 @@ Run With The Wind- We Must Go
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQ2it_oB0WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### My Music Playlist
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7piTWmGNeXElZOamsknInS?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-## Blog section
-11/21/2022
-This is the first time I will use a watercolor paper. I hope it will goes well.
-
-11/22/2022
-I spent most of my time in the  drawing instead of studying.
-
-
-
-
 
 ---
 [my twitter account](https://twitter.com/Bd_monoe623)
