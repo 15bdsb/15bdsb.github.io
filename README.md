@@ -1,6 +1,6 @@
 ### Welcome to 15bdsb.github.io
 ---
-## This is my art and music space. Here you can find my sketches, art projects,doodles and music. I will put the Playlist that I've made.
+## This is my art and music space. Here you can find my sketches, art projects,doodles and music. I will put here the Playlist that I've made.
 
 ### Doodles/sketch
 ![Sketch self (1)](https://user-images.githubusercontent.com/118230257/202450044-fc97d398-4161-4f79-9673-cb7b834fedf9.jpg)
