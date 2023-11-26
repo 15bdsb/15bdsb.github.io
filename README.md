@@ -30,12 +30,13 @@ SPYAIR- U&I
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zNzx2rgv1ag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 The Neighgbourhood- Sweater Weather
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GCdwKhTtNNw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Survive Said The Prophet
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f9sBK5ZI2CQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+King Gnu- SPECIALZ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fhzKLBZJC3w?si=Zc9y9Os55h0YVatg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 Run With The Wind- We Must Go
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sQ2it_oB0WA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ### My Music Playlist
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/7piTWmGNeXElZOamsknInS?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/0lWzlPmD6fFNe6z7uTzvn1?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 [my twitter account](https://twitter.com/Bd_monoe623)
